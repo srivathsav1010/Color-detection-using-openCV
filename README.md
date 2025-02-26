@@ -18,9 +18,9 @@ numpy for array handling
 RUN THE CODE using COMMAND PROMPT
 	
   --Install the Required Libraries:
-	--------------------------------
+  
 	pip install opencv-python numpy
-	--------------------------------
+	
 
   --Create a Python Script:
 
